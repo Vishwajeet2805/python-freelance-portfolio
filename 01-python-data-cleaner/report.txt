@@ -1,0 +1,13 @@
+DATA CLEANING REPORT
+====================
+
+Original Records: 10
+Final Records: 8
+Duplicates Removed: 2
+Missing Emails: 2
+
+Total Amount: ₹6900.00
+Average Amount: ₹862.50
+
+Output File:
+cleaned_data.csv
